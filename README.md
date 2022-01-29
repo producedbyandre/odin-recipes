@@ -1,1 +1,1 @@
-I will build a baseic recipe website to practice my html skills.
+I will build a basic recipe website to practice my html skills.
